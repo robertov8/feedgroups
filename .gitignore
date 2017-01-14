@@ -3,5 +3,5 @@ conf/search
 data_groups/groups-empregos/*
 data_groups/groups-mercado/*
 facegroups/
-feed/md
-feed/txt
+feed/md/*
+feed/txt/*
